@@ -169,6 +169,8 @@ body {
     font-weight: bolder;
     width: 100%;
     color: white;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .logo img {
@@ -177,8 +179,10 @@ body {
 }
 
 .credits {
+    margin-top: auto;
     text-align: center;
     color: white;
+    padding: 20px;
 }
 
 .main-col {
