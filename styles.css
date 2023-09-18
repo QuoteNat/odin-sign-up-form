@@ -184,6 +184,11 @@ body {
     padding: 20px;
 }
 
+.credits,
+a {
+    color: white;
+}
+
 .main-column {
     display: flex;
     flex: auto;
